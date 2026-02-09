@@ -1,4 +1,4 @@
 baseURL = 'https://mooreco.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
+title = 'The Moore Family'
+theme = 'PaperMod'
